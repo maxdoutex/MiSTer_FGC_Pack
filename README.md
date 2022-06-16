@@ -31,7 +31,7 @@ So many multiplayer games have become accessible thanks to this core, allowing m
 
 Thank you to the users of **Zophars Domain** and **GameFAQs**. 
 Many people have put in work to share to GBA Save files and it's great to have easy access to all characters in various fighting games.
-Specific users from these 2 communities are credited in the GBA Credits text file.
+Specific users from these 2 communities are credited in the [GBA_Credits](GBA_Credits.txt) file.
 If for any reason you would like to have your save removed from the Pack please contact me.
 
 ### Contact
