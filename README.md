@@ -44,7 +44,7 @@ If for any reason you would like to have your save removed from the Pack please 
 ### Contact
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MaxDOutEX.svg?style=social&label=Follow%20%40MaxDOutEX)](https://twitter.com/MaxDOutEX)
 
-If you have any contributions to make to the pack please contact me on twitter.
+If you have any questions or contributions to make to the pack please contact me on twitter.
 
 This can include
 - If the region version for a game in the **Tournament MRAs** is Not the Tournament Standard version please let me know
