@@ -15,7 +15,8 @@ The saves have been converted into saves for the GBA2P core.
 ### Script
 Please add the below line of code to your downloader.ini file if you would like to have your MiSTer automatically download these files, and any updates when they occur.
 
-```[MiSTer_FGC_Pack]
+```
+[MiSTer_FGC_Pack]
 db_url = https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Pack/main/MiSTer_FGC_Pack.json
 ```
 
