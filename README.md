@@ -1,5 +1,5 @@
 # MiSTer_FGC_Pack
-A ready to use pack of MRAs and Saves to have easier Versus Play for (Mostly) Fighting Games on the MiSTer.
+A ready to use pack of MRAs and Saves to have easier Versus Play for *(Mostly)* Fighting Games on the MiSTer.
 
 ### Torunament MRAs
 A set of MRAs intended for tournament use.
