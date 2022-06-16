@@ -6,9 +6,15 @@ A set of MRAs intended for tournament use.
 Region Version is the tournament preferred version for each game.
 'Core Credits' Button has been removed to avoid accidental button settings and pauses from users less familiar with the MiSTer.
 
+- Copy the _Tournament folder inside your _Arcade folder to use.
+- Romhacks are any romhacks that major changes to the point they could be considered their own game.
+- QOL_Romhacks are any romhacks that make only minor changes such as unlocking characters or visual changes.
+
 ### Saves
 A set of GBA Saves for full unlocks of multiplayer games.
 The saves have been converted into saves for the GBA2P core.
+- Copy the GBA and GBA2P Folders to your saves folder to use
+
 
 *Planning to expand to cover other consoles as needed*
 
