@@ -6,9 +6,10 @@ A set of MRAs intended for tournament use.
 Region Version is the tournament preferred version for each game.
 'Core Credits' Button has been removed to avoid accidental button settings and pauses from users less familiar with the MiSTer.
 
-- Copy the _Tournament folder inside your _Arcade folder to use.
+- Copy the _Tournament folder to your _Arcade folder to use.
 - Romhacks are any romhacks that major changes to the point it could be considered their own game.
 - QOL_Romhacks are any romhacks that make only minor changes such as unlocking characters or visual changes.
+- These are only the MRA files, you must still get the original rbf files from their original source.
 
 ### Saves
 A set of GBA Saves for full unlocks of multiplayer games.
@@ -26,15 +27,16 @@ Please add the below line of code to your downloader.ini file if you would like 
 db_url = https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Pack/main/MiSTer_FGC_Pack.json
 ```
 
-### Thanks
-Thank you to **Jotego** for your work at developing the CPS1 and CPS2 cores as well as your future projects. 
-These cores are allowing tournament play for these games to become more accessible.
+### Credits
+**Jotego** : His development work is integral to making these classic arcade fighters more accessible, accurate and easy use for offline play and tournaments.
+https://github.com/jotego/jtbin
 
-Thank you to **Atrac17** for creating the Arcade Offsets. 
-This has made it easier to play great HB Projects like SF2'Mix as well as giving more training tools on these accurate cores.
+**Atrac17**: Created the original arcade offsets making romhacks more accessible on the MiSTer. 
+https://github.com/atrac17/Arcade_Offset
 
-Thank you to **FPGAzumSpass** for your development of various cores, but especially the GBA2P core.
-So many multiplayer games have become accessible thanks to this core, allowing more people to experience games they otherwise would never have played.
+**theypsilon**: Thank you for making changes to the downloader script to allow for downloads of save files for this.
+
+**FPGAzumSpass**: Developed the GBA2P core which was the reason for this save set to be done. 
 
 Thank you to the users of **Zophars Domain** and **GameFAQs**. 
 Many people have put in work to share to GBA Save files and it's great to have easy access to all characters in various fighting games.
