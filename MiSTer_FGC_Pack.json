@@ -219,7 +219,7 @@
                         "hash": "9953fe92624ae1cff67c0472fb1274b1",
                         "size": 262144,
                         "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Pack/main/saves/GBA/Ashita%20no%20Joe%20-%20Makka%20ni%20Moeagare!%20(Japan).sav",
-						"overwrite": true
+						"overwrite": false
                 },                
 				"saves/GBA/Black Belt Challenge (USA).sav": {
                         "hash": "d609eb172c7914f9d944d8413740c589",
